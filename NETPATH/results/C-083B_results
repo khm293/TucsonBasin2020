@@ -1,0 +1,238 @@
+ Initial Well 1 : Agua Caliente                   
+ Initial Well 2 : Rillito                         
+ Final well     : C-083B                          
+
+          Final    Initial 1   Initial 2   
+ C       1.8750      3.2622      0.6541
+ S       0.2939      1.6005      0.0727
+ CA      0.6019      0.6082      0.2136
+ NA      1.0706      6.0722      0.1851
+ CL      0.1622      0.7081      0.0495
+ SI      0.6000      0.8500      0.3570
+ FE      0.0002      0.0001      0.0000
+
+ GYPSUM   CA   1.0000 S    1.0000 RS   6.0000 I3  22.0000
+ EXCHANGE CA  -1.0000 NA   2.0000 MG   0.0000
+ BIOTITE  AL   1.0000 MG   1.5000 K    1.0000 SI   3.0000 FE   1.5000
+          RS   3.0000
+ GOETHITE FE   1.0000 RS   3.0000
+ NaCl     NA   1.0000 CL   1.0000
+ SiO2     SI   1.0000
+ CO2 GAS  C    1.0000 RS   4.0000 I1 -22.0000 I2 100.0000
+ CALCITE  CA   1.0000 C    1.0000 RS   4.0000 I1  -4.5000 I2   0.0000
+
+                     28 models checked
+                      3 models found
+
+
+
+
+
+            MODEL   1
+  Init 1    + F        0.14480
+  Init 2    + F        0.85520
+  EXCHANGE             0.00785
+  BIOTITE   +          0.05720
+  GOETHITE            -0.08562
+  NaCl                 0.01729
+  CO2 GAS              0.50424
+  CALCITE              0.33899
+                Computed    Observed
+ Carbon-13      -13.5336    -14.5000
+ C-14 (% mod)    90.9377*    87.7900
+ Sulfur-34        0.0000   Undefined
+ Strontium-87      Insufficient data
+ Nitrogen-15      0.0000   Undefined
+ -------------------------------------------------------------------------
+ Adjusted C-14 age in years:    291.*     * = based on Original Data       
+
+     Model                 A0     Computed  Observed    age
+ (for initial A0)      (initial) (no decay)           (final)
+ ------------------------------------------------------------
+ Original Data           116.39     90.94     87.79      291.
+ Mass Balance             98.01     80.82     87.79     -684.
+ Vogel                    85.00     73.67     87.79    -1450.
+ Tamers                   55.62     57.50     87.79    -3498.
+ Ingerson and Pearson     49.46     54.11     87.79    -4001.
+ Mook                     28.14     42.38     87.79    -6021.
+ Fontes and Garnier       49.20     53.97     87.79    -4022.
+      F-G K     -5.51
+ Eichinger                46.17     52.30     87.79    -4282.
+ User-defined            100.00     81.92     87.79     -572.
+
+
+ Data used for Carbon-13   
+
+ Initial Value: -12.3638246        Modeled Final Value: -13.5335671
+
+  2 dissolving phases:
+ Phase       Delta C     Isotopic composition (o/oo)
+ CO2 GAS     0.5042419          -22.0000000
+ CALCITE     0.3389881           -4.5000000
+
+ Data used for C-14 (% mod)
+
+ Initial Value: 116.3873306        Modeled Final Value:  90.9376704
+
+  2 dissolving phases:
+ Phase       Delta C     Isotopic composition (% modern)
+ CO2 GAS     0.5042419          100.0000000
+ CALCITE     0.3389881            0.0000000
+
+ Data used for Sulfur-34   
+
+ Initial Value:   0.0000000        Modeled Final Value:   0.0000000
+
+ No incoming or outgoing phases
+
+
+ Data used for Strontium-87
+       Insufficient data
+
+ Data used for Nitrogen-15 
+
+ Initial Value:   0.0000000        Modeled Final Value:   0.0000000
+
+ No incoming or outgoing phases
+
+
+
+
+            MODEL   2
+  Init 1    + F        0.14480
+  Init 2    + F        0.85520
+  EXCHANGE             0.00785
+  BIOTITE   +          0.00012
+  NaCl                 0.01729
+  SiO2                 0.17124
+  CO2 GAS              0.50424
+  CALCITE              0.33899
+                Computed    Observed
+ Carbon-13      -13.5336    -14.5000
+ C-14 (% mod)    90.9377*    87.7900
+ Sulfur-34        0.0000   Undefined
+ Strontium-87      Insufficient data
+ Nitrogen-15      0.0000   Undefined
+ -------------------------------------------------------------------------
+ Adjusted C-14 age in years:    291.*     * = based on Original Data       
+
+     Model                 A0     Computed  Observed    age
+ (for initial A0)      (initial) (no decay)           (final)
+ ------------------------------------------------------------
+ Original Data           116.39     90.94     87.79      291.
+ Mass Balance             98.01     80.82     87.79     -684.
+ Vogel                    85.00     73.67     87.79    -1450.
+ Tamers                   55.62     57.50     87.79    -3498.
+ Ingerson and Pearson     49.46     54.11     87.79    -4001.
+ Mook                     28.14     42.38     87.79    -6021.
+ Fontes and Garnier       49.20     53.97     87.79    -4022.
+      F-G K     -5.51
+ Eichinger                46.17     52.30     87.79    -4282.
+ User-defined            100.00     81.92     87.79     -572.
+
+
+ Data used for Carbon-13   
+
+ Initial Value: -12.3638246        Modeled Final Value: -13.5335671
+
+  2 dissolving phases:
+ Phase       Delta C     Isotopic composition (o/oo)
+ CO2 GAS     0.5042419          -22.0000000
+ CALCITE     0.3389881           -4.5000000
+
+ Data used for C-14 (% mod)
+
+ Initial Value: 116.3873306        Modeled Final Value:  90.9376704
+
+  2 dissolving phases:
+ Phase       Delta C     Isotopic composition (% modern)
+ CO2 GAS     0.5042419          100.0000000
+ CALCITE     0.3389881            0.0000000
+
+ Data used for Sulfur-34   
+
+ Initial Value:   0.0000000        Modeled Final Value:   0.0000000
+
+ No incoming or outgoing phases
+
+
+ Data used for Strontium-87
+       Insufficient data
+
+ Data used for Nitrogen-15 
+
+ Initial Value:   0.0000000        Modeled Final Value:   0.0000000
+
+ No incoming or outgoing phases
+
+
+
+
+            MODEL   3
+  Init 1    + F        0.14480
+  Init 2    + F        0.85520
+  EXCHANGE             0.00785
+  GOETHITE             0.00019
+  NaCl                 0.01729
+  SiO2                 0.17161
+  CO2 GAS              0.50424
+  CALCITE              0.33899
+                Computed    Observed
+ Carbon-13      -13.5336    -14.5000
+ C-14 (% mod)    90.9377*    87.7900
+ Sulfur-34        0.0000   Undefined
+ Strontium-87      Insufficient data
+ Nitrogen-15      0.0000   Undefined
+ -------------------------------------------------------------------------
+ Adjusted C-14 age in years:    291.*     * = based on Original Data       
+
+     Model                 A0     Computed  Observed    age
+ (for initial A0)      (initial) (no decay)           (final)
+ ------------------------------------------------------------
+ Original Data           116.39     90.94     87.79      291.
+ Mass Balance             98.01     80.82     87.79     -684.
+ Vogel                    85.00     73.67     87.79    -1450.
+ Tamers                   55.62     57.50     87.79    -3498.
+ Ingerson and Pearson     49.46     54.11     87.79    -4001.
+ Mook                     28.14     42.38     87.79    -6021.
+ Fontes and Garnier       49.20     53.97     87.79    -4022.
+      F-G K     -5.51
+ Eichinger                46.17     52.30     87.79    -4282.
+ User-defined            100.00     81.92     87.79     -572.
+
+
+ Data used for Carbon-13   
+
+ Initial Value: -12.3638246        Modeled Final Value: -13.5335671
+
+  2 dissolving phases:
+ Phase       Delta C     Isotopic composition (o/oo)
+ CO2 GAS     0.5042419          -22.0000000
+ CALCITE     0.3389881           -4.5000000
+
+ Data used for C-14 (% mod)
+
+ Initial Value: 116.3873306        Modeled Final Value:  90.9376704
+
+  2 dissolving phases:
+ Phase       Delta C     Isotopic composition (% modern)
+ CO2 GAS     0.5042419          100.0000000
+ CALCITE     0.3389881            0.0000000
+
+ Data used for Sulfur-34   
+
+ Initial Value:   0.0000000        Modeled Final Value:   0.0000000
+
+ No incoming or outgoing phases
+
+
+ Data used for Strontium-87
+       Insufficient data
+
+ Data used for Nitrogen-15 
+
+ Initial Value:   0.0000000        Modeled Final Value:   0.0000000
+
+ No incoming or outgoing phases
+
+

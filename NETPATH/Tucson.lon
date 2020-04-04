@@ -1,0 +1,511 @@
+2.14                                                       # File format
+4000B-043B                                                                      
+                                                           # Lat/lon
+              2                                            # Well number
+             13                                            # Total wells
+                                                           # Address1
+                                                           # Address2
+                                                           # Address3
+                                                           # Address4
+                                                           # Address5
+           29.8                                            # Temperature     
+           8.09                                            # pH              
+                                                           # Dissolved Oxygen
+           2.21                                            # Alkalinity      
+            0.5                                            # Tritium         
+                                                           # H2S as S        
+           0.75                                            # Calcium         
+                                                           # Eh              
+           0.03                                            # Magnesium       
+           1.29                                            # Sodium          
+           0.03                                            # Potassium       
+           0.25                                            # Chloride        
+           0.31                                            # Sulfate         
+           0.01                                            # Fluoride        
+                                                           # Silica          
+                                                           # Bromide         
+          0.003                                            # Boron           
+                                                           # Barium          
+                                                           # Lithium         
+                                                           # Strontium       
+             0.                                            # Iron            
+                                                           # Manganese       
+           0.06                                            # Nitrate         
+                                                           # Ammonium        
+                                                           # Phosphate       
+                                                           # DOC             
+                                                           # Sp. Cond.       
+             1.                                            # Density         
+           -9.4                                            # Delta C-13 TDIC 
+          47.56                                            # Carbon 14 TDIC  
+                                                           # Delta S-34 (SO4)
+                                                           # Delta S-34 (H2S)
+          -63.9                                            # Delta Deuterium 
+           -9.1                                            # Delta O-18      
+                                                           # CH4 (aq)        
+                                                           # Sr 87/86        
+                                                           # Aluminum        
+                                                           # N2 (aq)         
+                                                           # N-15 of N2 (aq) 
+                                                           # N-15 of Nitrate 
+                                                           # N-15 of Ammonium
+                                                           # Formation
+4000C-123B                                                                      
+                                                           # Lat/lon
+              3                                            # Well number
+             13                                            # Total wells
+                                                           # Address1
+                                                           # Address2
+                                                           # Address3
+                                                           # Address4
+                                                           # Address5
+           21.1                                            # Temperature     
+           7.89                                            # pH              
+                                                           # Dissolved Oxygen
+             1.                                            # Alkalinity      
+            1.4                                            # Tritium         
+                                                           # H2S as S        
+           0.71                                            # Calcium         
+                                                           # Eh              
+           0.14                                            # Magnesium       
+           1.46                                            # Sodium          
+          0.022                                            # Potassium       
+          0.177                                            # Chloride        
+          0.093                                            # Sulfate         
+           0.07                                            # Fluoride        
+           0.52                                            # Silica          
+                                                           # Bromide         
+          0.006                                            # Boron           
+                                                           # Barium          
+                                                           # Lithium         
+                                                           # Strontium       
+             0.                                            # Iron            
+                                                           # Manganese       
+           0.04                                            # Nitrate         
+                                                           # Ammonium        
+                                                           # Phosphate       
+                                                           # DOC             
+                                                           # Sp. Cond.       
+             1.                                            # Density         
+          -14.4                                            # Delta C-13 TDIC 
+          88.52                                            # Carbon 14 TDIC  
+                                                           # Delta S-34 (SO4)
+                                                           # Delta S-34 (H2S)
+           -73.                                            # Delta Deuterium 
+           -9.7                                            # Delta O-18      
+                                                           # CH4 (aq)        
+                                                           # Sr 87/86        
+                                                           # Aluminum        
+                                                           # N2 (aq)         
+                                                           # N-15 of N2 (aq) 
+                                                           # N-15 of Nitrate 
+                                                           # N-15 of Ammonium
+                                                           # Formation
+4000Agua Caliente                                                               
+                                                           # Lat/lon
+              4                                            # Well number
+             13                                            # Total wells
+                                                           # Address1
+                                                           # Address2
+                                                           # Address3
+                                                           # Address4
+                                                           # Address5
+            34.                                            # Temperature     
+           8.13                                            # pH              
+                                                           # Dissolved Oxygen
+            3.4                                            # Alkalinity      
+<         0.500                                            # Tritium         
+                                                           # H2S as S        
+           0.59                                            # Calcium         
+                                                           # Eh              
+           0.07                                            # Magnesium       
+           5.89                                            # Sodium          
+           0.11                                            # Potassium       
+           0.73                                            # Chloride        
+           1.65                                            # Sulfate         
+            0.3                                            # Fluoride        
+           0.85                                            # Silica          
+                                                           # Bromide         
+           0.01                                            # Boron           
+                                                           # Barium          
+                                                           # Lithium         
+                                                           # Strontium       
+         0.0001                                            # Iron            
+                                                           # Manganese       
+           0.05                                            # Nitrate         
+                                                           # Ammonium        
+                                                           # Phosphate       
+                                                           # DOC             
+                                                           # Sp. Cond.       
+             1.                                            # Density         
+          -10.9                                            # Delta C-13 TDIC 
+          41.06                                            # Carbon 14 TDIC  
+                                                           # Delta S-34 (SO4)
+                                                           # Delta S-34 (H2S)
+          -65.7                                            # Delta Deuterium 
+           -9.4                                            # Delta O-18      
+                                                           # CH4 (aq)        
+                                                           # Sr 87/86        
+                                                           # Aluminum        
+                                                           # N2 (aq)         
+                                                           # N-15 of N2 (aq) 
+                                                           # N-15 of Nitrate 
+                                                           # N-15 of Ammonium
+                                                           # Formation
+4000Deer Run                                                                    
+                                                           # Lat/lon
+              5                                            # Well number
+             13                                            # Total wells
+                                                           # Address1
+                                                           # Address2
+                                                           # Address3
+                                                           # Address4
+                                                           # Address5
+            20.                                            # Temperature     
+             7.                                            # pH              
+                                                           # Dissolved Oxygen
+             2.                                            # Alkalinity      
+             6.                                            # Tritium         
+                                                           # H2S as S        
+            0.6                                            # Calcium         
+                                                           # Eh              
+          0.525                                            # Magnesium       
+           1.85                                            # Sodium          
+           0.11                                            # Potassium       
+            1.2                                            # Chloride        
+           0.33                                            # Sulfate         
+           0.26                                            # Fluoride        
+            0.8                                            # Silica          
+                                                           # Bromide         
+                                                           # Boron           
+                                                           # Barium          
+                                                           # Lithium         
+                                                           # Strontium       
+             0.                                            # Iron            
+                                                           # Manganese       
+           0.24                                            # Nitrate         
+                                                           # Ammonium        
+                                                           # Phosphate       
+                                                           # DOC             
+                                                           # Sp. Cond.       
+             1.                                            # Density         
+           -13.                                            # Delta C-13 TDIC 
+           100.                                            # Carbon 14 TDIC  
+                                                           # Delta S-34 (SO4)
+                                                           # Delta S-34 (H2S)
+           -71.                                            # Delta Deuterium 
+          -9.18                                            # Delta O-18      
+                                                           # CH4 (aq)        
+                                                           # Sr 87/86        
+                                                           # Aluminum        
+                                                           # N2 (aq)         
+                                                           # N-15 of N2 (aq) 
+                                                           # N-15 of Nitrate 
+                                                           # N-15 of Ammonium
+                                                           # Formation
+4020Marshall Gulch                                                              
+                                                           # Lat/lon
+              7                                            # Well number
+             13                                            # Total wells
+                                                           # Address1
+                                                           # Address2
+                                                           # Address3
+                                                           # Address4
+                                                           # Address5
+            9.4                                            # Temperature     
+            5.7                                            # pH              
+                                                           # Dissolved Oxygen
+           0.07                                            # Alkalinity      
+             6.                                            # Tritium         
+                                                           # H2S as S        
+           0.14                                            # Calcium         
+                                                           # Eh              
+           0.16                                            # Magnesium       
+           0.24                                            # Sodium          
+           0.05                                            # Potassium       
+          0.002                                            # Chloride        
+          0.002                                            # Sulfate         
+                                                           # Fluoride        
+            0.5                                            # Silica          
+                                                           # Bromide         
+                                                           # Boron           
+                                                           # Barium          
+                                                           # Lithium         
+                                                           # Strontium       
+          0.001                                            # Iron            
+                                                           # Manganese       
+                                                           # Nitrate         
+                                                           # Ammonium        
+                                                           # Phosphate       
+                                                           # DOC             
+                                                           # Sp. Cond.       
+             1.                                            # Density         
+          -23.1                                            # Delta C-13 TDIC 
+          105.4                                            # Carbon 14 TDIC  
+                                                           # Delta S-34 (SO4)
+                                                           # Delta S-34 (H2S)
+         -10.35                                            # Delta Deuterium 
+         -68.89                                            # Delta O-18      
+                                                           # CH4 (aq)        
+                                                           # Sr 87/86        
+                                                           # Aluminum        
+                                                           # N2 (aq)         
+                                                           # N-15 of N2 (aq) 
+                                                           # N-15 of Nitrate 
+                                                           # N-15 of Ammonium
+                                                           # Formation
+4000Agua_Caliente_corrected                                                     
+                                                           # Lat/lon
+              9                                            # Well number
+             13                                            # Total wells
+                                                           # Address1
+                                                           # Address2
+                                                           # Address3
+                                                           # Address4
+                                                           # Address5
+            34.                                            # Temperature     
+           8.13                                            # pH              
+                                                           # Dissolved Oxygen
+            3.4                                            # Alkalinity      
+<         0.500                                            # Tritium         
+                                                           # H2S as S        
+            0.6                                            # Calcium         
+                                                           # Eh              
+           0.07                                            # Magnesium       
+            5.9                                            # Sodium          
+           0.11                                            # Potassium       
+          0.737                                            # Chloride        
+           1.65                                            # Sulfate         
+            0.3                                            # Fluoride        
+           0.01                                            # Silica          
+                                                           # Bromide         
+           0.01                                            # Boron           
+                                                           # Barium          
+                                                           # Lithium         
+                                                           # Strontium       
+         0.0001                                            # Iron            
+                                                           # Manganese       
+           0.05                                            # Nitrate         
+                                                           # Ammonium        
+                                                           # Phosphate       
+                                                           # DOC             
+                                                           # Sp. Cond.       
+             1.                                            # Density         
+          -10.9                                            # Delta C-13 TDIC 
+         73.416                                            # Carbon 14 TDIC  
+                                                           # Delta S-34 (SO4)
+                                                           # Delta S-34 (H2S)
+          -65.7                                            # Delta Deuterium 
+           -9.4                                            # Delta O-18      
+                                                           # CH4 (aq)        
+                                                           # Sr 87/86        
+                                                           # Aluminum        
+                                                           # N2 (aq)         
+                                                           # N-15 of N2 (aq) 
+                                                           # N-15 of Nitrate 
+                                                           # N-15 of Ammonium
+                                                           # Formation
+4000Rillito                                                                     
+                                                           # Lat/lon
+             10                                            # Well number
+             13                                            # Total wells
+                                                           # Address1
+                                                           # Address2
+                                                           # Address3
+                                                           # Address4
+                                                           # Address5
+            17.                                            # Temperature     
+             7.                                            # pH              
+                                                           # Dissolved Oxygen
+            0.5                                            # Alkalinity      
+             6.                                            # Tritium         
+                                                           # H2S as S        
+          0.225                                            # Calcium         
+                                                           # Eh              
+          0.041                                            # Magnesium       
+          0.195                                            # Sodium          
+          0.033                                            # Potassium       
+          0.047                                            # Chloride        
+          0.069                                            # Sulfate         
+                                                           # Fluoride        
+          0.357                                            # Silica          
+                                                           # Bromide         
+                                                           # Boron           
+                                                           # Barium          
+                                                           # Lithium         
+                                                           # Strontium       
+          0.000                                            # Iron            
+                                                           # Manganese       
+                                                           # Nitrate         
+                                                           # Ammonium        
+                                                           # Phosphate       
+                                                           # DOC             
+                                                           # Sp. Cond.       
+             1.                                            # Density         
+          -13.6                                            # Delta C-13 TDIC 
+           100.                                            # Carbon 14 TDIC  
+                                                           # Delta S-34 (SO4)
+                                                           # Delta S-34 (H2S)
+          -57.3                                            # Delta Deuterium 
+          -9.24                                            # Delta O-18      
+                                                           # CH4 (aq)        
+                                                           # Sr 87/86        
+                                                           # Aluminum        
+                                                           # N2 (aq)         
+                                                           # N-15 of N2 (aq) 
+                                                           # N-15 of Nitrate 
+                                                           # N-15 of Ammonium
+                                                           # Formation
+4000C-083B                                                                      
+                                                           # Lat/lon
+             11                                            # Well number
+             13                                            # Total wells
+                                                           # Address1
+                                                           # Address2
+                                                           # Address3
+                                                           # Address4
+                                                           # Address5
+           20.3                                            # Temperature     
+           7.15                                            # pH              
+                                                           # Dissolved Oxygen
+            1.6                                            # Alkalinity      
+            1.8                                            # Tritium         
+                                                           # H2S as S        
+           0.61                                            # Calcium         
+                                                           # Eh              
+          0.075                                            # Magnesium       
+          1.085                                            # Sodium          
+           0.02                                            # Potassium       
+           0.16                                            # Chloride        
+           0.29                                            # Sulfate         
+             0.                                            # Fluoride        
+            0.6                                            # Silica          
+             0.                                            # Bromide         
+          0.003                                            # Boron           
+             0.                                            # Barium          
+                                                           # Lithium         
+                                                           # Strontium       
+         0.0002                                            # Iron            
+             0.                                            # Manganese       
+           0.07                                            # Nitrate         
+                                                           # Ammonium        
+                                                           # Phosphate       
+                                                           # DOC             
+                                                           # Sp. Cond.       
+             1.                                            # Density         
+          -14.5                                            # Delta C-13 TDIC 
+          87.79                                            # Carbon 14 TDIC  
+                                                           # Delta S-34 (SO4)
+                                                           # Delta S-34 (H2S)
+          -65.3                                            # Delta Deuterium 
+           -9.4                                            # Delta O-18      
+                                                           # CH4 (aq)        
+                                                           # Sr 87/86        
+                                                           # Aluminum        
+                                                           # N2 (aq)         
+                                                           # N-15 of N2 (aq) 
+                                                           # N-15 of Nitrate 
+                                                           # N-15 of Ammonium
+                                                           # Formation
+4000B-026                                                                       
+                                                           # Lat/lon
+             12                                            # Well number
+             13                                            # Total wells
+                                                           # Address1
+                                                           # Address2
+                                                           # Address3
+                                                           # Address4
+                                                           # Address5
+            23.                                            # Temperature     
+           7.44                                            # pH              
+                                                           # Dissolved Oxygen
+            2.8                                            # Alkalinity      
+            1.8                                            # Tritium         
+                                                           # H2S as S        
+           1.48                                            # Calcium         
+                                                           # Eh              
+           0.19                                            # Magnesium       
+           1.46                                            # Sodium          
+          0.038                                            # Potassium       
+           0.55                                            # Chloride        
+           0.39                                            # Sulfate         
+             0.                                            # Fluoride        
+           0.53                                            # Silica          
+             0.                                            # Bromide         
+          0.006                                            # Boron           
+        0.00092                                            # Barium          
+                                                           # Lithium         
+                                                           # Strontium       
+        0.00006                                            # Iron            
+             0.                                            # Manganese       
+            0.2                                            # Nitrate         
+                                                           # Ammonium        
+                                                           # Phosphate       
+                                                           # DOC             
+                                                           # Sp. Cond.       
+             1.                                            # Density         
+          -11.6                                            # Delta C-13 TDIC 
+          85.05                                            # Carbon 14 TDIC  
+                                                           # Delta S-34 (SO4)
+                                                           # Delta S-34 (H2S)
+          -56.7                                            # Delta Deuterium 
+           -8.5                                            # Delta O-18      
+                                                           # CH4 (aq)        
+                                                           # Sr 87/86        
+                                                           # Aluminum        
+                                                           # N2 (aq)         
+                                                           # N-15 of N2 (aq) 
+                                                           # N-15 of Nitrate 
+                                                           # N-15 of Ammonium
+                                                           # Formation
+4000Parker                                                                      
+                                                           # Lat/lon
+             13                                            # Well number
+             13                                            # Total wells
+                                                           # Address1
+                                                           # Address2
+                                                           # Address3
+                                                           # Address4
+                                                           # Address5
+           21.8                                            # Temperature     
+           6.43                                            # pH              
+                                                           # Dissolved Oxygen
+            1.8                                            # Alkalinity      
+            2.4                                            # Tritium         
+                                                           # H2S as S        
+            0.3                                            # Calcium         
+                                                           # Eh              
+           0.14                                            # Magnesium       
+           1.46                                            # Sodium          
+          0.022                                            # Potassium       
+          0.177                                            # Chloride        
+           0.09                                            # Sulfate         
+          0.077                                            # Fluoride        
+          0.648                                            # Silica          
+             0.                                            # Bromide         
+          0.006                                            # Boron           
+        0.00012                                            # Barium          
+                                                           # Lithium         
+                                                           # Strontium       
+         0.0007                                            # Iron            
+                                                           # Manganese       
+          0.037                                            # Nitrate         
+                                                           # Ammonium        
+                                                           # Phosphate       
+                                                           # DOC             
+                                                           # Sp. Cond.       
+             1.                                            # Density         
+          -15.4                                            # Delta C-13 TDIC 
+           103.                                            # Carbon 14 TDIC  
+                                                           # Delta S-34 (SO4)
+                                                           # Delta S-34 (H2S)
+           -73.                                            # Delta Deuterium 
+           -10.                                            # Delta O-18      
+                                                           # CH4 (aq)        
+                                                           # Sr 87/86        
+                                                           # Aluminum        
+                                                           # N2 (aq)         
+                                                           # N-15 of N2 (aq) 
+                                                           # N-15 of Nitrate 
+                                                           # N-15 of Ammonium
+                                                           # Formation

@@ -1,0 +1,249 @@
+ Initial Well 1 : Rillito                         
+ Initial Well 2 : Agua Caliente                   
+ Final well     : B-043B                          
+
+          Final    Initial 1   Initial 2   
+ C       2.1030      0.6541      3.2622
+ S       0.2964      0.0727      1.6005
+ CA      0.7844      0.2136      0.6082
+ MG      0.0314      0.0389      0.0722
+ NA      1.3491      0.1851      6.0722
+ CL      0.2391      0.0495      0.7081
+ SI      0.5400      0.3570      0.8500
+ FE      0.0000      0.0000      0.0001
+
+ BIOTITE  AL   1.0000 MG   1.5000 K    1.0000 SI   3.0000 FE   1.5000
+          RS   3.0000
+ EXCHANGE CA  -1.0000 NA   2.0000 MG   0.0000
+ CO2 GAS  C    1.0000 RS   4.0000 I1 -20.0000 I2 100.0000
+ GOETHITE FE   1.0000 RS   3.0000
+ Mg-MONT  MG   0.1670 AL   2.3300 SI   3.6700
+ CALCITE  CA   1.0000 C    1.0000 RS   4.0000 I1   0.0000 I2   0.0000
+ GYPSUM   CA   1.0000 S    1.0000 RS   6.0000 I3  22.0000
+ NaCl     NA   1.0000 CL   1.0000
+ SiO2     SI   1.0000
+
+                     36 models checked
+                      2 models found
+
+
+
+
+
+            MODEL   1
+  Init 1    + F        0.85356
+  Init 2    + F        0.14644
+  EXCHANGE             0.10438
+  CO2 GAS              0.44963
+  GOETHITE            -0.00001
+  Mg-MONT             -0.07437
+  CALCITE              0.61735        0.350 exchanged
+  NaCl                 0.09309
+  SiO2                 0.38373
+                Computed    Observed
+ Carbon-13       -9.5971     -9.4000
+ C-14 (% mod)    48.8089*    47.5600
+ Sulfur-34        0.0000   Undefined
+ Strontium-87      Insufficient data
+ Nitrogen-15      0.0000   Undefined
+ -------------------------------------------------------------------------
+ Adjusted C-14 age in years:    214.*     * = based on Original Data       
+
+     Model                 A0     Computed  Observed    age
+ (for initial A0)      (initial) (no decay)           (final)
+ ------------------------------------------------------------
+ Original Data            75.52     48.81     47.56      214.
+ Mass Balance             98.19     57.66     47.56     1592.
+ Vogel                    85.00     52.51     47.56      819.
+ Tamers                   55.59     41.03     47.56    -1221.
+ Ingerson and Pearson     56.75     41.48     47.56    -1130.
+ Mook                     56.27     41.30     47.56    -1168.
+ Fontes and Garnier       59.08     42.39     47.56     -951.
+      F-G K     -7.49
+ Eichinger                54.46     40.59     47.56    -1310.
+ User-defined            100.00     58.37     47.56     1692.
+
+
+ Data used for Carbon-13   
+
+ Initial Value: -14.1871545        Modeled Final Value:  -9.5971063
+
+  2 dissolving phases:
+ Phase       Delta C     Isotopic composition (o/oo)
+ CO2 GAS     0.4496252          -20.0000000
+ CALCITE     0.9673499            0.0000000
+
+  1 precipitating phases:                             Average
+ Phase       Delta C     Fractionation factor Isotopic composition (o/oo)
+ CALCITE    -0.35000             1.2672             -10.0231025
+
+          Isotopic composition of precipitating CALCITE 
+
+             +--------------------------------------------------+
+      -8.3621|                                        **********|
+             |                                ********          |              
+             |                         *******                  |              
+             |                    *****                         |Avg = -10.0231
+ Carbon-13   |                ****                              |              
+     o/oo    |            ****                                  |              
+             |        ****                                      |              
+             |     ***                                          |              
+             |   **                                             |              
+     -12.8372|***                                               |
+             +--------------------------------------------------+
+          Initial                                             Final
+
+ Data used for C-14 (% mod)
+
+ Initial Value:  75.5158460        Modeled Final Value:  48.8089112
+
+  2 dissolving phases:
+ Phase       Delta C     Isotopic composition (% modern)
+ CO2 GAS     0.4496252          100.0000000
+ CALCITE     0.9673499            0.0000000
+
+  1 precipitating phases:                             Average
+ Phase       Delta C     Fractionation factor Isotopic composition (% modern)
+ CALCITE    -0.35000             2.5345              58.7256430
+
+          Isotopic composition of precipitating CALCITE 
+
+             +--------------------------------------------------+
+      75.1203|***                                               |
+             |   **                                             |              
+             |     ***                                          |              
+             |        ****                                      |              
+ C-14 (% mod)|            ****                                  |              
+             |                ****                              |              
+             |                    *****                         |Avg =  58.7256
+             |                         *******                  |              
+             |                                ********          |              
+      49.0496|                                        **********|
+             +--------------------------------------------------+
+          Initial                                             Final
+
+ Data used for Sulfur-34   
+
+ Initial Value:   0.0000000        Modeled Final Value:   0.0000000
+
+ No incoming or outgoing phases
+
+
+ Data used for Strontium-87
+       Insufficient data
+
+ Data used for Nitrogen-15 
+
+ Initial Value:   0.0000000        Modeled Final Value:   0.0000000
+
+ No incoming or outgoing phases
+
+
+
+
+            MODEL   2
+  Init 1    + F        1.00000
+  Init 2    + F        0.00000
+  EXCHANGE             0.48722
+  CO2 GAS              0.61468
+  Mg-MONT             -0.04521
+  CALCITE              0.83424        0.350 exchanged
+  GYPSUM    +          0.22374
+  NaCl                 0.18954
+  SiO2                 0.34892
+                Computed    Observed
+ Carbon-13       -9.4051     -9.4000
+ C-14 (% mod)    50.7591*    47.5600
+ Sulfur-34       16.6058   Undefined
+ Strontium-87      Insufficient data
+ Nitrogen-15       Insufficient data
+ -------------------------------------------------------------------------
+ Adjusted C-14 age in years:    538.*     * = based on Original Data       
+
+     Model                 A0     Computed  Observed    age
+ (for initial A0)      (initial) (no decay)           (final)
+ ------------------------------------------------------------
+ Original Data           105.00     50.76     47.56      538.
+ Mass Balance             72.50     43.14     47.56     -806.
+ Vogel                    85.00     46.07     47.56     -263.
+ Tamers                   59.79     40.16     47.56    -1398.
+ Ingerson and Pearson     68.00     42.09     47.56    -1011.
+ Mook                     80.22     44.95     47.56     -467.
+ Fontes and Garnier       72.68     43.18     47.56     -798.
+      F-G K     -7.49
+ Eichinger                66.14     41.65     47.56    -1097.
+ User-defined            100.00     49.59     47.56      345.
+
+
+ Data used for Carbon-13   
+
+ Initial Value: -17.0000000        Modeled Final Value:  -9.4050595
+
+  2 dissolving phases:
+ Phase       Delta C     Isotopic composition (o/oo)
+ CO2 GAS     0.6146800          -20.0000000
+ CALCITE     1.1842400            0.0000000
+
+  1 precipitating phases:                             Average
+ Phase       Delta C     Fractionation factor Isotopic composition (o/oo)
+ CALCITE    -0.35000             1.2672             -10.3838271
+
+          Isotopic composition of precipitating CALCITE 
+
+             +--------------------------------------------------+
+      -8.1700|                                   ***************|
+             |                          *********               |              
+             |                    ******                        |              
+             |               *****                              |Avg = -10.3838
+ Carbon-13   |           ****                                   |              
+     o/oo    |        ***                                       |              
+             |      **                                          |              
+             |    **                                            |              
+             |  **                                              |              
+     -15.4940|**                                                |
+             +--------------------------------------------------+
+          Initial                                             Final
+
+ Data used for C-14 (% mod)
+
+ Initial Value: 105.0000000        Modeled Final Value:  50.7590736
+
+  2 dissolving phases:
+ Phase       Delta C     Isotopic composition (% modern)
+ CO2 GAS     0.6146800          100.0000000
+ CALCITE     1.1842400            0.0000000
+
+  1 precipitating phases:                             Average
+ Phase       Delta C     Fractionation factor Isotopic composition (% modern)
+ CALCITE    -0.35000             2.5345              66.8618261
+
+          Isotopic composition of precipitating CALCITE 
+
+             +--------------------------------------------------+
+     103.4043|**                                                |
+             |  **                                              |              
+             |    **                                            |              
+             |      **                                          |              
+ C-14 (% mod)|        ***                                       |              
+             |           ****                                   |              
+             |               *****                              |Avg =  66.8618
+             |                    ******                        |              
+             |                          *********               |              
+      51.0324|                                   ***************|
+             +--------------------------------------------------+
+          Initial                                             Final
+
+ Data used for Sulfur-34   
+
+ Initial Value:   0.0000000        Modeled Final Value:  16.6057621
+
+  1 dissolving phases:
+ Phase       Delta S     Isotopic composition (o/oo)
+ GYPSUM      0.2237400           22.0000000
+
+ Data used for Strontium-87
+       Insufficient data
+
+ Data used for Nitrogen-15 
+       Insufficient data
+
